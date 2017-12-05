@@ -15,6 +15,10 @@
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
         android:text="@string/text_2"/>
+    <ImageView
+
+        android:layout_width="100dp"
+        android:layout_height="@dimen/image_height" />
 
 
 </RelativeLayout>
